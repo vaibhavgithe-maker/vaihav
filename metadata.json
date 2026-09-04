@@ -1,0 +1,6 @@
+{
+  "name": "Store Rating Platform",
+  "description": "Full stack store rating platform allowing users to submit ratings for stores with role-based dashboards for System Administrators, Store Owners, and Normal Users.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
